@@ -1,7 +1,7 @@
 ## SQL AROUND THE WORLD
 
 - Select command
-![](<../assets/Screenshot 2025-07-16 141252.png>)
+![](<assets/Screenshot 2025-07-16 141252.png>)
 
 - select shapes
 ![](<../../assets/Screenshot 2025-07-16 141656.png>)
