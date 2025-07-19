@@ -4,7 +4,7 @@
 
 []()
 - select shapes
-[SHAPES](<assets/Screenshot 2025-07-16 141656.png>)
+![SHAPES](<assets/Screenshot 2025-07-16 141656.png>)
 
 - visualizing the shapes
 ![](<assets/Screenshot 2025-07-16 141851.png>)
